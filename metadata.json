@@ -1,0 +1,7 @@
+{
+  "name": "Avatar Vendedor AI",
+  "description": "Un avatar de ventas interactivo potenciado por Gemini Live API que responde preguntas y explica productos en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
